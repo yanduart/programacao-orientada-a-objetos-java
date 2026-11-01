@@ -19,10 +19,12 @@ Projetos e exercícios de Programação Orientada a Objetos desenvolvidos durant
 
 ## Como executar
 
-```bash
-cd Aula_Heranca
-mvn compile exec:java
-```
+1. Clone o repositório ou baixe o ZIP.
+2. Abra o NetBeans e vá em **File → Open Project**.
+3. Selecione a pasta do projeto desejado (ex.: `Aula_Heranca`).
+4. Clique com o botão direito no projeto e escolha **Run**.
+
+Requisito: JDK 21 ou superior.
 
 (troque `Aula_Heranca` pela pasta do projeto desejado)
 
