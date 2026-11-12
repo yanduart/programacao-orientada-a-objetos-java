@@ -1,0 +1,5 @@
+com\mycompany\classe_abstract_situacao_problema\EntregaExpressa.class
+com\mycompany\classe_abstract_situacao_problema\EntregaNormal.class
+com\mycompany\classe_abstract_situacao_problema\Entrega.class
+com\mycompany\classe_abstract_situacao_problema\Programa.class
+com\mycompany\classe_abstract_situacao_problema\EntregaEconomica.class
