@@ -12,6 +12,8 @@ Projetos e exercícios de Programação Orientada a Objetos desenvolvidos durant
 | [Aula_Tratamentos_Erros](Aula_Tratamentos_Erros) | Tratamento de erros (try/catch/finally) |
 | [Classe_Abstract](Classe_Abstract) | Classes abstratas e polimorfismo (FormaGeometrica, Retangulo e Circulo) |
 | [Classe_Abstract_Situação_Problema](Classe_Abstract_Situacao_Problema) | Situação-problema com classe abstrata: cálculo de frete (Entrega Normal, Expressa e Econômica) |
+| [Pratica_Interface](Pratica_Interface) | Interfaces e polimorfismo: interface `Impressao` implementada por `Relatorio` e `NotaFiscal` |
+| [Pratica_Interface2](Pratica_Interface2) | Interfaces e polimorfismo: interface `Pagamento` implementada por Cartão, Pix e Boleto |
 
 ## Tecnologias
 
